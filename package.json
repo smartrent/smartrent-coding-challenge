@@ -1,8 +1,0 @@
-{
-  "name": "smartrent-coding-challenge",
-  "version": "1.0.0",
-  "description": "https://gist.github.com/matthew-kerle/94ffc1cc92ed0e7ec367b3fd217e002c",
-  "scripts": {
-    "start": "(cd backend && npm start) & cd frontend && npm start"
-  }
-}
